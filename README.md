@@ -24,7 +24,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 - Step 1 - Sign into portal.azure.com and create a resourse group called RG-LAB-02. Make the rigion US west 3 and then click create and review 
 - Step 2 - Create a Virtual machine (VM) and put it in the same resourse group you just created. Name the virtual machine VM1, windows 10 pro. 2 vcpus and make user name labuser and password whatever you want it to be , but please remember it and write it down!then click creat and review. 
-- Step 3 - 
+- Step 3 - Create another Virtual machine (VM) and put this one in the same resourse group as the first virtual machine RG-LAB-02. Name this vm VM2 ubuntu (linux) server 20.04 lts - gen 2, 2 vcpus and click password and not SSH public key, Name this labuser then click next, next review and create. 
 - Step 4 - 
 - Step 5 -
 - Step 6 -
