@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/oomnUxU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Create a Virtual Machine (VM). Put it in the same resourse group you just created. 
+Create a Virtual Machine (VM). Put it in the same resourse group you just created. RG-LAB-02
 </p>
 <br />
 <p>
