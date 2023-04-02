@@ -22,10 +22,20 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-- Step 1 - sign into portal.azure.com and create a resourse group called RG-LAB-02. Then create a virtual machine (VM)
-- Step 2
-- Step 3
-- Step 4
+- Step 1 - sign into portal.azure.com and create a resourse group called RG-LAB-02.
+- Step 2 - Create a Virtual machine (VM) and put it in the same resourse group you just created. 
+- Step 3 - 
+- Step 4 - 
+- Step 5 -
+- Step 6 -
+- Step 7 - 
+- Step 8 - 
+- Step 9 - 
+- step 10 - 
+
+
+
+
 
 <h2>Actions and Observations</h2>
 
