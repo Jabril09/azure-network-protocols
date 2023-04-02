@@ -22,8 +22,8 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-- Step 1 - Sign into portal.azure.com and create a resourse group called RG-LAB-02.
-- Step 2 - Create a Virtual machine (VM) and put it in the same resourse group you just created. 
+- Step 1 - Sign into portal.azure.com and create a resourse group called RG-LAB-02. Make the rigion US west 3 and then click create and review 
+- Step 2 - Create a Virtual machine (VM) and put it in the same resourse group you just created. Name the virtual machine VM1, windows 10 pro. 2 vcpus and make user name labuser and password whatever you want it to be , but please remember it and write it down!then click creat and review. 
 - Step 3 - 
 - Step 4 - 
 - Step 5 -
