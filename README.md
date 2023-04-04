@@ -125,7 +125,7 @@ Lorem ipsum dolor
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/hr4O4QJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Xsn0rU1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet.
