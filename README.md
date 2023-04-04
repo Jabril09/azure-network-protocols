@@ -77,7 +77,7 @@ Lon.
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/Qu6iZjm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Lvs1Ndm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 L.
