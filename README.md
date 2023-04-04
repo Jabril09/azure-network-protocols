@@ -66,7 +66,7 @@ Create a Virtual Machine (VM). Put it in the same resourse group you just create
 <img src="https://i.imgur.com/ZIOtKAC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-NAme the Virtual Machine (VM1).
+Name the Virtual Machine (VM1).
 </p>
 <br />
 <p>
