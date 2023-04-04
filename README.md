@@ -31,7 +31,6 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Step 7 - 
 - Step 8 - 
 - Step 9 - 
-- step 10 - 
 
 
 
