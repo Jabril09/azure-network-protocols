@@ -76,7 +76,7 @@ Name the Virtual Machine (VM2). Us west 3 name labuser and password (something y
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/IFlouzd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0OYCHZK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Open up VM1 in remote desktop and go to google.com and download wireshark. Then download windows installer(64-bit). Then click open file click next through everthing to install and finish. Once installed close out everthing and open up wireshark. Click the windows tab and type wireshark and click the wireshark app. Once in wire shark click the shark fin in the upper left corner to start seeing live actual traffic happening in VM1.
