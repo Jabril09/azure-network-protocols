@@ -30,7 +30,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Step 6 - Go to the portal in azure and in Network security group to deny ping access of VM1. 
 - Step 7 - Go back to the portal in azure and in Network security group. Inbound security rules and change setting back to allow
 - Step 8 - Sign into VM2 through secure shell (SSH) another way to remote desktop and sign in.
-- Step 9 - 
+- Step 9 - Make sure to delete all resources in azure so you do not use all you free credits. 
 
 
 
