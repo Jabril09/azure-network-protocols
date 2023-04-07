@@ -29,7 +29,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Step 5 - Minimize VM1 and go back to the azure portal and copy VM2 private IP address. Once  copied, open up VM1. In VM1 open up Powershell in the windows prompt. In powershell type in ping and the private IP address and hit enter. Notice the ping and replies from VM1 to VM2. 
 - Step 6 - Go to the portal in azure and in Network security group to deny ping access of VM1. 
 - Step 7 - Go back to the portal in azure and in Network security group. Inbound security rules and change setting back to allow
-- Step 8 - 
+- Step 8 - Sign into VM2 through secure shell (SSH) another way to remote desktop and sign in.
 - Step 9 - 
 
 
@@ -136,7 +136,7 @@ Go back to portal.azure.com to we can allow traffic. Once back in azure go to ne
 <img src="https://i.imgur.com/iXqPyaD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor 
+Lorem ipsum dolor . Now back in powershell type in SSH. From here we will connect to VM1 to VM2 through secure shell.(SSH). Instead of using ping use SSH labuser@ 10.0.0.5 then enter the password you created for VM2
 </p>
 <br />
 </p>
