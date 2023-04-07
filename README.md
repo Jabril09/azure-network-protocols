@@ -28,7 +28,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Step 4 - Open up VM1 in remote desktop and go to google.com and download wireshark. Once installed close out everthing and open up wireshark. 
 - Step 5 - Minimize VM1 and go back to the azure portal and copy VM2 private IP address. Once  copied, open up VM1. In VM1 open up Powershell in the windows prompt. In powershell type in ping and the private IP address and hit enter. Notice the ping and replies from VM1 to VM2. 
 - Step 6 - Go to the portal in azure and in Network security group to deny ping access of VM1. 
-- Step 7 - 
+- Step 7 - Go back to the portal in azure and in Network security group. Inbound security rules and change setting back to allow
 - Step 8 - 
 - Step 9 - 
 
@@ -109,7 +109,7 @@ Go back to the azure portal and click virtual machines and search for network se
 <img src="https://i.imgur.com/hr4O4QJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Under settings click inbound security roles for VM2 firewall. Click add to add a rule to deny traffic. Source - any. Source destination - *. Destination - any. Service custom. Destination port ranges *. Protocol ICMP (Intercontrol messaging protocol). Action - deny. Priority 200. That way it will cancel the traffic before anything happens. 
+Under settings click inbound security roles for VM2 firewall. Click add to add a rule to deny traffic. Source - any. Source destination - *. Destination - any. Service custom. Destination port ranges *. Protocol ICMP (Intercontrol messaging protocol). Action - deny. Priority 200. That way it will cancel the traffic before anything happens. Name Deny_ICMP_PING_FROM_ANYWHERE.
 </p>
 <br />
 </p>
@@ -118,7 +118,7 @@ Under settings click inbound security roles for VM2 firewall. Click add to add a
 <img src="https://i.imgur.com/Dd5BmL4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor 
+After you denied accress notice how it started timing out from VM2 firewall. 
 </p>
 <br />
 </p>
@@ -127,7 +127,7 @@ Lorem ipsum dolor
 <img src="https://i.imgur.com/Xsn0rU1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet.
+Go back to portal.azure.com to we can allow traffic. Once back in azure go to network security groups. VM2 inbound security rules click on DENY_IMCP_FROM_ANYWHERE and change setting to allow and notice how the request starts coming back in. 
 </p>
 <br />
 </p>
