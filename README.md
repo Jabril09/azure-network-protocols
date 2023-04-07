@@ -22,7 +22,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-- Step 1 - Sign into portal.azure.com and create a resourse group called RG-LAB-02. Make the rigion US west 3 and then click create and review 
+- Step 1 - Sign into portal.azure.com and create a resourse group called RG-LAB-02. Make the region US west 3 and then click create and review 
 - Step 2 - Create a Virtual machine (VM) and put it in the same resourse group you just created. Name the virtual machine VM1, windows 10 pro. 2 vcpus and make user name labuser and password whatever you want it to be , but please remember it and write it down!then click creat and review. 
 - Step 3 - Create another Virtual machine (VM) and put this one in the same resourse group as the first virtual machine RG-LAB-02. Name this vm VM2 ubuntu (linux) server 20.04 lts - gen 2, 2 vcpus and click password and not SSH public key, Name this labuser then click next, next review and create. 
 - Step 4 - Open up VM1 in remote desktop and go to google.com and download wireshark. Once installed close out everthing and open up wireshark. 
@@ -65,14 +65,14 @@ Create a Virtual Machine (VM). Put it in the same resourse group you just create
 <img src="https://i.imgur.com/ZIOtKAC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Name the Virtual Machine (VM1).
+Name the Virtual Machine (VM1). US west 3 user name labuser and password (something you will not forget) same resource group RG-LAB-02 windows 10 pro version 2vcpu and click review and create. 
 </p>
 <br />
 <p>
 <img src="https://i.imgur.com/f2maKSL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lon.
+Name the Virtual Machine (VM2). Us west 3 name labuser and password (something you will not forget) same resource group RG-LAB-02 ubuntu server (linux) 20.04 Lts-gen2 click password and not SSH public key click review and create. 
 </p>
 <br />
 <p>
