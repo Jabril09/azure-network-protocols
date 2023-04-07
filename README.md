@@ -86,14 +86,14 @@ Open up VM1 in remote desktop and go to google.com and download wireshark. Then 
 <img src="https://i.imgur.com/NR5CnFd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem.In the top bar click and type in ICMP (Inter control messaging protocol) and hit enter. Notice how everthing stopped?. 
+Minimized VM1 and find go into VM2 to get the private IP address. Copy it and go back to VM1. Click the windows button and type powershell and open up powershell.(More powerful command-line shell and scripting language than the Command-prompt, similar to command prompt) In the top bar click and type in ICMP (Inter control messaging protocol) and hit enter. Notice how everthing stopped?. 
 </p>
 <br />
 <p>
 <img src="https://i.imgur.com/UiaJmII.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum.
+In powershell type in ping 10.0.0.5 (VM2 private Ip address). Hit enter and you will notice the ping and replies. Type in ping 10.0.0.5 (space) -t. Now you will be ping forever. pretty cool.
 </p>
 <br />
 <p>
