@@ -100,7 +100,7 @@ In powershell type in ping 10.0.0.5 (VM2 private Ip address). Hit enter and you 
 <img src="https://i.imgur.com/W1BfEjy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor. Go back to the azure portal and click virtual machines and search for network security group. Click VM2 network security group. From here we will be denying VM1 ping access.
+Go back to the azure portal and click virtual machines and search for network security group. Click VM2 network security group. From here we will be denying VM1 ping access.
 </p>
 <br />
 </p>
@@ -109,7 +109,7 @@ Lorem ipsum dolor. Go back to the azure portal and click virtual machines and se
 <img src="https://i.imgur.com/hr4O4QJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet. Under settings click inbound security roles for VM2 firewall. Click add to add a rule to deny traffic. Source - any. Source destination - *. Destination - any. Service custom. Destination port ranges *. Protocol ICMP (Intercontrol messaging protocol). Action - deny. Priority 200. That way it will cancel the traffic before is comes in at 300.
+Under settings click inbound security roles for VM2 firewall. Click add to add a rule to deny traffic. Source - any. Source destination - *. Destination - any. Service custom. Destination port ranges *. Protocol ICMP (Intercontrol messaging protocol). Action - deny. Priority 200. That way it will cancel the traffic before anything happens. 
 </p>
 <br />
 </p>
