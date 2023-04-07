@@ -136,7 +136,7 @@ Go back to portal.azure.com to we can allow traffic. Once back in azure go to ne
 <img src="https://i.imgur.com/iXqPyaD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor . Now back in powershell type in SSH. From here we will connect to VM1 to VM2 through secure shell.(SSH). Instead of using ping use SSH labuser@ 10.0.0.5 then enter the password you created for VM2
+Now back in powershell type in SSH. From here we will connect to VM1 to VM2 through secure shell.(SSH). Instead of using ping use SSH labuser@ 10.0.0.5 then enter the password you created for VM2
 </p>
 <br />
 </p>
@@ -145,6 +145,6 @@ Lorem ipsum dolor . Now back in powershell type in SSH. From here we will connec
 <img src="https://i.imgur.com/v9aMadS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet.
+Now you can type in I.D to see incoming traffic. To exit out of VM2 through SSh type exit and now you will be in VM1 virtual command line. From here you can ask the dns (domain name server) whats the IP address of a website by typing nslookup www.google.com. Not only google but other websites as well. 
 </p>
 <br />
